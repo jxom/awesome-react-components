@@ -403,6 +403,8 @@
  - [react-maskedinput](https://github.com/insin/react-maskedinput) - Masked &lt;input/&gt; React component.
  - [react-text-mask](https://github.com/msafi/text-mask) - Input mask for React, Angular, and vanilla JavaScript. Flexible, robust &amp; tiny.
  - [react-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms.
+ - [react-credit-card-input](https://github.com/medipass/react-credit-card-input) - A simple credit/debit card input field for React.
+ - [react-creditcard](https://github.com/medipass/react-creditcard) - An awesome react credit card component.
 
 
 #### Autocomplete
